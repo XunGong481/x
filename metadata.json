@@ -1,0 +1,5 @@
+{
+  "name": "动态文字生成",
+  "description": "Upload an image and add dynamic, animated text overlays.",
+  "requestFramePermissions": []
+}
